@@ -1,0 +1,11 @@
+.fa-moon-o::before {
+    font-size: 60px;
+    color: navy;
+}
+
+body {
+    display: flex;
+    justify-content: end;
+
+    /* align-items: center; */
+}
